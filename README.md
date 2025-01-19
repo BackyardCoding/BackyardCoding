@@ -1,4 +1,19 @@
 ## Hi there 👋
+👋 Hi, I’m the BackyardCoder (@BackyardCoding)
+
+🚀 Passionate about Software Development, DevOps Engineering, and User-Centric Design
+
+🌟 Exploring innovative tech solutions and always eager to learn and grow
+
+🌱 Currently mastering Typescript, ActivityPub, and the Fediverse
+
+🎥 Streaming programming activities and my learning journey in German on Twitch: BackyardCoding
+
+💡 Open to collaborations on ActivityPub projects, microservices architecture, and Java backend development
+
+⚽ Big fan of Arsenal London and the great outdoors
+
+⚡ Fun fact: My favorite TV show is the Wire
 
 <!--
 **BackyardCoding/BackyardCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
