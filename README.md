@@ -11,9 +11,9 @@
 
 💡 Open to collaborations on ActivityPub projects, microservices architecture, and Java backend development
 
-⚽ Big fan of Arsenal London and the great outdoors
+⚽ Big fan of Arsenal London and the scandinavian nature in Denmark, Sweden and Norway
 
-⚡ Fun fact: My favorite TV show is the Wire
+⚡ Fun fact: My favorite TV show is: The Wire
 
 <!--
 **BackyardCoding/BackyardCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
